@@ -3,6 +3,9 @@
 This repository contains the model data used in the some papers.
 You can also get the model data from their home pages or from the github.
 
+> Tip:
+> If you don't need all the model data, it is not recommended to download or clone this repository. You can easily find the same data file from their homepage or github page listed in corresponding directory.
+
 ## Reference
 
 - Li, Pan, Bin Wang, Feng Sun, Xiaohu Guo, Caiming Zhang, and Wenping Wang. **"Q-MAT: Computing Medial Axis Transform by Quadratic Error Minimization."** ACM Transactions on Graphics, no. 1 (December 29, 2015): 1–16. https://doi.org/10.1145/2753755.

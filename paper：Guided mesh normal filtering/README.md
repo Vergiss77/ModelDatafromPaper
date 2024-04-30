@@ -1,4 +1,4 @@
-Data for
+Data from
 **Guided mesh normal filtering**
 
 [home page](https://github.com/bldeng/GuidedDenoising)
