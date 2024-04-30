@@ -1,12 +1,12 @@
 # Model Data from Paper
 
-This repository contains the model data used in the some papers.
+This repository contains the model data used in some papers.
 You can also get the model data from their home pages or from the github.
 
 ### Tip:
 **If you don't need all the model data, it is not recommended to download or clone this repository.** There are some solutions for you:
 - Google Chrome plugin: `GitZip for github`. You can download a folder or file through it.
-- You can also easily find the same data file from their home page or github page listed in corresponding directory.
+- You can also easily find the same data file from their home pages or github pages listed in corresponding directory.
 
 ## Reference
 
