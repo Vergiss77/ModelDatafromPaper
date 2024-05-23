@@ -19,3 +19,5 @@ You can also get the model data from their home pages or from the github.
 - Zhang, Wangyu, Bailin Deng, Juyong Zhang, Sofien Bouaziz, and Ligang Liu. **"Guided Mesh Normal Filtering."** Computer Graphics Forum, no. 7 (October 2015): 23–34. https://doi.org/10.1111/cgf.12742.
 
 - Zhao, Zheng-Yu, Mo Li, Zheng Zhang, Qing Fang, Ligang Liu, and Xiao-Ming Fu. **"Evolutionary Piecewise Developable Approximations."** ACM Transactions on Graphics, no. 4 (July 26, 2023): 1–14. https://doi.org/10.1145/3592140.
+
+- Huang, Jin, Tengfei Jiang, Zeyun Shi, Yiying Tong, Hujun Bao, and Mathieu Desbrun. **"ℓ1-Based Construction of Polycube Maps from Complex Shapes."** ACM Transactions on Graphics, no. 3 (May 2014): 1–11. https://doi.org/10.1145/2602141.
