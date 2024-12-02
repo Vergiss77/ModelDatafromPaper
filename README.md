@@ -21,3 +21,6 @@ You can also get the model data from their home pages or from the github.
 - Zhao, Zheng-Yu, Mo Li, Zheng Zhang, Qing Fang, Ligang Liu, and Xiao-Ming Fu. **"Evolutionary Piecewise Developable Approximations."** ACM Transactions on Graphics, no. 4 (July 26, 2023): 1–14. https://doi.org/10.1145/3592140.
 
 - Huang, Jin, Tengfei Jiang, Zeyun Shi, Yiying Tong, Hujun Bao, and Mathieu Desbrun. **"ℓ1-Based Construction of Polycube Maps from Complex Shapes."** ACM Transactions on Graphics, no. 3 (May 2014): 1–11. https://doi.org/10.1145/2602141.
+
+- Wang, Yunhai, Shmulik Asafi, Oliver van Kaick, Hao Zhang, Daniel Cohen-Or, and Baoquan Chen. **"Active Co-Analysis of a Set of Shapes."** *ACM Transactions on Graphics*, no. 6 (November 2012): 1–10. https://doi.org/10.1145/2366145.2366184.
+- Su, Jian-Ping, Xiao-Ming Fu, and Ligang Liu. **"Practical Foldover‐Free Volumetric Mapping Construction."** *Computer Graphics Forum*, no. 7 (October 2019): 287–97. https://doi.org/10.1111/cgf.13837.
