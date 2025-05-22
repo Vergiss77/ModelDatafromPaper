@@ -7,7 +7,8 @@ You can also get the model data from their home pages or from the github.
 **If you don't need all the model data, it is not recommended to download or clone this repository.** There are some solutions for you:
 - Google Chrome plugin: `GitZip for github`. You can download a folder or file through it.
 - You can also easily find the same data file from their home pages or github pages listed in corresponding directory.
-- **The size of each folder is listed in it.**
+
+**The size of each folder is listed in it.**
 
 ## Reference
 
